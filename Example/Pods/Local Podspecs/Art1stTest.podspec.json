@@ -1,0 +1,22 @@
+{
+  "name": "Art1stTest",
+  "version": "0.1.0",
+  "summary": "A short description of Art1stTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/longdavid0/Art1stTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "longdavid0": "le.david@art1st.hu"
+  },
+  "source": {
+    "git": "https://github.com/longdavid0/Art1stTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Art1stTest/Classes/**/*"
+}

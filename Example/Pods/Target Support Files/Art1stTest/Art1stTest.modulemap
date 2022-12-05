@@ -1,0 +1,6 @@
+framework module Art1stTest {
+  umbrella header "Art1stTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
