@@ -13,5 +13,6 @@ public class MyLogger {
     }
     public func LogThis(){
         print("this")
+        print("that")
     }
 }
